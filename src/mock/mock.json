@@ -1,0 +1,17 @@
+[
+  {
+    "id": "NazivProjekta",
+    "value": "Ovo je testni projekt",
+    "type": "string"
+  },
+  {
+    "id": "GodinaIzgradnje",
+    "value": 2023,
+    "type": "number"
+  },
+  {
+    "id": "Aktivno",
+    "value": true,
+    "type": "boolean"
+  }
+]
